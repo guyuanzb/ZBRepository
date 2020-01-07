@@ -8,7 +8,7 @@ public class Test01 {
 	try{
 		 String str=null;
 		 if((str!=null)&&(str.length()>0)){
-			 //反对反对反对法酷酷酷
+			 //反对反对反对法酷酷酷ii
 		 }
 		 
 	}catch(Exception e){
